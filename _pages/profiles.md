@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: more about me
 description: More About Me...
 nav: true
 nav_order: 6
