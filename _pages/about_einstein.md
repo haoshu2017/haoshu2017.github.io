@@ -1,3 +1,3 @@
-Hi, welcome to my website! I was born in China and moved to the U.S for my graduate program in 2014. Both of my parents were archaeologist but I decided to be a little "modern", and eventually became a sociologist and demographer in 2022. 
+Hi, welcome to my website! I was born in China and moved to the U.S for my graduate program in 2014. Both of my parents were archaeologists but I decided to be more "modern", and eventually became a sociologist and demographer in 2022.  
 
 I have lived in Lansing (MI), College Park (MD), and eventually settled in the Northern Virginia area in 2023. When I am not working, I usually take walks in NoVa Parks and bead jewelries. In 2024, I am planning to get better in Cantonese and visit Europe! 
