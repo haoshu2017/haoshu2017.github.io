@@ -25,19 +25,34 @@
 
 - title: Experience
   type: time_table
+  content:
+   - title: Research Associates III (Data Scientist)
+     institution: JBS International, North Bethesda, MD
+     year: 03/2024 - Current
+     description: 
+     - Lead, developed, and managed data collection/processing pipeline for HRSA-required measures for 50+ states/awardees for Pediatric Mental health access program.
+     - Lead and built a dynamic/real-time dashboard for social determinants for health measures at the state/county/zip code level.
+     - Conducted the Difference-in-Difference analyses to evaluate a nation-wide program impact effects at the national level with senior colleagues.
+     - Using a data-driven, unsupervised learning method to classify 50+ awardees based on their program implementation statuses.
+     - title: Skills
+       contents: 
+       - R, Python
+       - causal inference, factor and cluster analysis
+
+- title: Experience
+  type: time_table
   contents:
     - title: Health Quantitative Senior Analyst
       institution: Abt Associates, Rockville, MD
-      year: 2022 - Current
+      year: 06/2022 - 02/2024
       description:
         - Lead, designed, and performed health equity quantitative analyses to care quality and performances.
         - Developed, deployed, and managed data processing pipeline and scalable R programs/codes to process and analyze 55 states’ data for rural communities opioid response program. 
-        - Managed the coding development using GitHub with collaborators and data analysts. 
+        #- Managed the coding development using GitHub with collaborators and data analysts. 
         - Adopted an intersectionality framework and investigated how care qualities differ by patients’ race, socioeconomic levels, and neighborhoods’ Area Deprivation Index. 
-        - Built automatic dashboard using Tableau and monitored disease transimiting trends by subgroup population, and incorportated validity and accuracy checks to communicate directly to clients and federal agencies. 
-        - Solely authored and lead technical analyses for the annual report of the Health Resources and Services Administration and other federal governments. 
+        #- Solely authored and lead technical analyses for the annual report of the Health Resources and Services Administration and other federal governments. 
         - Researched and proposed protocol for clinical quality measures and performance metrics for care disparities scores. 
-        - Designed and deployed Inter-Rater Reliability analysis and factor analysis to evaluate hospice care quality measurements.
+        #- Designed and deployed Inter-Rater Reliability analysis and factor analysis to evaluate hospice care quality measurements.
         - Adopted machine learning techniques (K-Means Clustering) to identify hospices with similar care quality traits.
         - title: Skills
           contents:
@@ -74,4 +89,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Crafting, jewelries beading, 5K runner.
+    - <u>Hobbies:</u> Crafting, jewelries beading, 10K runner (1st Place for Women's 30-39 at Ugly Sweater Dash 10k)
