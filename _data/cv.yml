@@ -25,27 +25,25 @@
 
 - title: Experience
   type: time_table
-  content:
+  contents:
    - title: Research Associates III (Data Scientist)
      institution: JBS International, North Bethesda, MD
      year: 03/2024 - Current
      description: 
      - Lead, developed, and managed data collection/processing pipeline for HRSA-required measures for 50+ states/awardees for Pediatric Mental health access program.
      - Lead and built a dynamic/real-time dashboard for social determinants for health measures at the state/county/zip code level.
-     - Conducted the Difference-in-Difference analyses to evaluate a nation-wide program impact effects at the national level with senior colleagues.
+     - Conducted the Difference-in-Difference analyses to evaluate a nation-wide program impact at the national level with senior colleagues.
      - Using a data-driven, unsupervised learning method to classify 50+ awardees based on their program implementation statuses.
      - title: Skills
        contents: 
        - R, Python
        - causal inference, factor and cluster analysis
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Health Quantitative Senior Analyst
-      institution: Abt Associates, Rockville, MD
-      year: 06/2022 - 02/2024
-      description:
+
+   - title: Health Quantitative Senior Analyst
+     institution: Abt Associates, Rockville, MD
+     year: 06/2022 - 02/2024
+     description:
         - Lead, designed, and performed health equity quantitative analyses to care quality and performances.
         - Developed, deployed, and managed data processing pipeline and scalable R programs/codes to process and analyze 55 states’ data for rural communities opioid response program. 
         #- Managed the coding development using GitHub with collaborators and data analysts. 
@@ -60,27 +58,27 @@
             - Medicare claims data, Census, and American Community Survey data
             - Multilevel modeling, longitudinal data analysis
    
-    - title: Research Scientist
-      institution: University of Maryland, College Park, MD
-      year: 2019-2022
-      description:
+   - title: Research Scientist
+     institution: University of Maryland, College Park, MD
+     year: 2019-2022
+     description:
         - Led and designed longitudinal studies on health consequences of caregiving among American and Chinese older adults over the life course.
         - Cleaned, standardized, and managed 20-year longitudinal data from the Health and Retirement Survey in the U.S. and China.
         - Used latent profile analysis and identified five prominent long-term caregiving trajectories among American and Chinese older adults.
         - Used multinomial logistic regression model and found populations affected the most by the care burdens in later life. Presented the research findings at GSA (Gerontological Society of America) 2021.
 
-    - title: Quantitative Research Intern
-      institution: Insight Policy Research, Rosslyn, VA
-      year: 2020
-      description: 
+   - title: Quantitative Research Intern
+     institution: Insight Policy Research, Rosslyn, VA
+     year: 2020
+     description: 
         - Led the data cleaning and management for 11 WIC state agencies. 
         - Wrote SAS programs to analyze and streamline summary descriptive statistics to clients.
         - Wrote memos, reported, and provided technical assistance for state agencies directly.
 
-    - title: Research Assistant
-      institution: University of Maryland, College Park, MD
-      year: 2017-2018
-      description:
+   - title: Research Assistant
+     institution: University of Maryland, College Park, MD
+     year: 2017-2018
+     description:
         - Used web scrapping techniques with R to collect COVID cases from 40 states' health department websites. 
         - Built and managed a database reflecting real-time COVID cases at the neighborhood level. Extracted neighborhood characteristics of 3000+ zip codes using the API from the Census.
         - Mapped out the COVID transmission based on the neighborhood characteristics (poverty rate, median income, and racial composition).
